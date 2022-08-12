@@ -1,0 +1,15 @@
+ &calssteoflst
+ keydate=198001202112,
+ svtfsano_ana2_file='/geps1/chtseng/ncepdata/sst_v5_198001_202112.r4',
+ eofano_ana2_file='/geps1/chtseng/ncepdata/ISOMAP_sst_198001_202112.dat',
+ eofratio_ana2_file='/geps1/chtseng/ncepdata/evratio_ISOMAP_198001_202112.dat',
+ eofpca_ana2_file='/geps1/chtseng/ncepdata/ISOPCA_198001_202112.dat',
+ eofev_ana2_file='/geps1/chtseng/ncepdata/ISOev_198001_202112.dat',
+ rlon1=120.,
+ rlon2=300.,
+ rlat1=-30.,
+ rlat2=30.,
+ nl2kind=1,
+ nv=44,
+ niter=10,
+ &end

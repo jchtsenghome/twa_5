@@ -1,0 +1,13 @@
+ &dopcpisofcstlst
+ pcpisosvr='/geps2/chtseng/ncepdata/PCP_EAmonsoon_svr_fcst_516.dat',
+ eofano_ana2_file='/geps2/chtseng/ncepdata/ISOMAP_pcp_198001_202112.dat',
+ eofpca_ana2_file='/geps2/chtseng/ncepdata/ISOPCA_pcp_198001_202112.dat',
+ eofev_ana2_file='/geps2/chtseng/ncepdata/ISOev_pcp_198001_202112.dat',
+ ydatafriso_ana2_file='/geps2/chtseng/ncepdata/pcpfriso_202101_202212.dat',
+ avemonfile='/geps2/chtseng/ncepdata/pcpavemon_1980_2021.dat',
+ rlon1=50.,
+ rlon2=150.,
+ rlat1=-10.,
+ rlat2=50.,
+ nbegin=493,
+ &end
